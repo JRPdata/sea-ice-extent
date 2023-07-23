@@ -3,6 +3,8 @@ Sea Ice Extent prediction using historical data only
 
 (Not a physical model.)
 
+Use sea-ice-extent-forecast-validate.ipynb, as this has the code for tuning (validation and the original are kept as reference copies)
+
 
 Uses prophet (https://github.com/facebook/prophet) for prediction.
 
