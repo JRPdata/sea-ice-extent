@@ -14,3 +14,4 @@ From: "All daily (single day and five-day trailing average) extent values in one
 
 
 Do not rely/use this forecast as I am just a hobbyist forecaster.
+# nhc_errors
